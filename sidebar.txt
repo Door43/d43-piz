@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[piz:home|Door43 (piz)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-piz|d43-piz repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-piz/archive/master.zip|d43-piz.zip]]
+
+**Recent Changes**
+{{changes>ns = piz}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/piz|Ethnologue data]]
+
